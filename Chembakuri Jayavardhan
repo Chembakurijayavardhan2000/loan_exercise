@@ -1,0 +1,4 @@
+requirements:
+      Python 3.9
+      psycopg2
+      pandas
